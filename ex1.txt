@@ -1,0 +1,7 @@
+10 println "This program tests basic SIL statement execution"
+20 integer a,b,c,d
+30 print "Enter a b c:"
+40 input a , b, c
+50 let d = b*b - 4 * a * c
+60 println "d=", d
+70 end

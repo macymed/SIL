@@ -1,0 +1,12 @@
+10 goto 100
+20 println "line 20"
+30 goto 120
+40 println "line 40"
+50 goto 90
+60 println "line 60"
+70 println "line 70"
+80 goto 20
+90 goto 70
+100 println "line 100"
+110 goto 40
+120 "end"

@@ -1,0 +1,10 @@
+10 println "If block test"
+20 integer a, b
+30 print "Enter a b:"
+40 input a,b
+50 if a < b then goto 100
+60 println "in if block"
+70 println "doing a second statement"
+80 println "and a third"
+100 println "out of the block"
+200 end
